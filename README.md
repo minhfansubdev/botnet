@@ -9,7 +9,7 @@
 
 | Tiêu chí | Điều khoản áp dụng |
 | :--- | :--- |
-| 🧑‍💻 **Tác giả** | **Minh Fansub** |
+| 🧑‍💻 **Tác giả** | **Minh Fansub & PBTD1** |
 | 🎯 **Mục đích** | Chỉ phục vụ nghiên cứu an ninh mạng, học thuật, thử nghiệm trong Lab / Honeypot |
 | 🚫 **Thương mại** | **NGHIÊM CẤM** bán, cho thuê, gắn quảng cáo hoặc thương mại hóa dưới mọi hình thức |
 | ⚖️ **Trách nhiệm** | Người sử dụng tự chịu **100% trách nhiệm** trước pháp luật |
